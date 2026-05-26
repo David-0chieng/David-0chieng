@@ -127,7 +127,7 @@ Currently working through a structured curriculum in the following areas:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-0804&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-0804&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 ---
