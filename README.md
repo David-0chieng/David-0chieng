@@ -134,7 +134,7 @@ Currently working through a structured curriculum in the following areas:
 
 ## GitHub Stats
 <div align="center">
-  ![](https://github-readme-stats.shion.dev/api?username=David-0804&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  <img src="https://github-readme-stats.shion.dev/api?username=David-0804&theme=dark&hide_border=false&include_all_commits=True&count_private=True" />
 </div>
 
 <div align="center">
@@ -146,7 +146,7 @@ Currently working through a structured curriculum in the following areas:
 </div>
 
 <div align="center">
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=David-0804&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=David-0804&theme=dark&hide_border=false&include_all_commits=True&count_private=True&layout=compact)
 </div>
 
 
