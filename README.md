@@ -9,7 +9,7 @@
 <a href="https://discord.com/users/_daudh">
   <img src="https://img.shields.io/badge/Discord-_daudh-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </a>
-
+ 
 <a href="https://www.linkedin.com/in/david-ochieng/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
