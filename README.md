@@ -3,7 +3,7 @@
 # David Ochieng
 ### Full-Stack Developer · Python Engineer · Desktop & GUI Developer
 
-<a href="https://github.com/David-0804">
+<a href="https://github.com/David-0chieng">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://discord.com/users/_daudh">
@@ -134,19 +134,19 @@ Currently working through a structured curriculum in the following areas:
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=David-0804&theme=dark&hide_border=true&include_all_commits=True&count_private=True" />
+  <img src="https://github-readme-stats.shion.dev/api?username=David-0chieng&theme=dark&hide_border=true&include_all_commits=True&count_private=True" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=David-0804&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=David-0chieng&theme=github-dark-blue&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=David-0804&theme=dark&hide_border=true&include_all_commits=True&count_private=True&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=David-0chieng&theme=dark&hide_border=true&include_all_commits=True&count_private=True&layout=compact" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-0804&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-0chieng&theme=github_dark" />
 </div>
 
 
