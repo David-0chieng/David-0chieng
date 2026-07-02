@@ -138,7 +138,7 @@ Currently working through a structured curriculum in the following areas:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=David-0chieng&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=David-0chieng&theme=github-dark-blue&hide_border=true&count_private=False" />
 </div>
 
 <div align="center">
@@ -146,7 +146,7 @@ Currently working through a structured curriculum in the following areas:
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-0ch9ieng&theme=github_dark&include_all_commits=False&count_private=False" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-0chieng&theme=github_dark&include_all_commits=False&count_private=False" />
 </div>
 
 
