@@ -146,7 +146,7 @@ Currently working through a structured curriculum in the following areas:
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-0chieng&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-0chieng&theme=github_dark&include_all_commits=False&count_private=False" />
 </div>
 
 
