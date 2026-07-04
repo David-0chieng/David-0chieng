@@ -134,7 +134,7 @@ Currently working through a structured curriculum in the following areas:
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=David-0chieng&theme=dark&hide_border=true&include_all_commits=True&count_private=True" />
+  <img src="https://github-readme-stats.shion.dev/api?username=David-0chieng&theme=dark&hide_border=true&include_all_commits=True&count_private=true" />
 </div>
 
 <div align="center">
