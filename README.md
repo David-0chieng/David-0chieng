@@ -134,19 +134,19 @@ Currently working through a structured curriculum in the following areas:
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=David-0chieng&theme=dark&hide_border=true&include_all_commits=True&count_private=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=David-0chieng&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=David-0chieng&theme=github-dark-blue&hide_border=true&count_private=True" />
+  <img src="https://streak-stats.demolab.com?user=David-0chieng&theme=github-dark-blue&hide_border=true&count_private=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=David-0chieng&theme=dark&hide_border=true&include_all_commits=True&count_private=True&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=David-0chieng&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-0chieng&theme=github_dark&count_private=True" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-0chieng&theme=github_dark&count_private=true" />
 </div>
 
 
