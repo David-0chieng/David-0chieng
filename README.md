@@ -131,24 +131,8 @@ Currently working through a structured curriculum in the following areas:
 </details>
 
 --- 
----
+
 ## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=David-0chieng&theme=dark&hide_border=true&include_all_commits=true&show_icons=true&cache_seconds=3600" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=David-0chieng&theme=github-dark-blue&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-0chieng&theme=dark&hide_border=true&layout=compact&cache_seconds=3600" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-0chieng&theme=github_dark" />
-</div>
-<!-- ## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=David-0chieng&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
@@ -163,7 +147,7 @@ Currently working through a structured curriculum in the following areas:
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-0chieng&theme=github_dark&count_private=true" />
-</div> -->
+</div>
 
 
 
