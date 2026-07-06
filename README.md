@@ -151,8 +151,6 @@ Currently working through a structured curriculum in the following areas:
 
 
 
-
-
 ---
 ### ✍️ Random Quote
 <div align="center">
