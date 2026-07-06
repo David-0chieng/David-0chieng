@@ -16,9 +16,9 @@
 <a href="https://x.com/daudh_tech">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
 </a>
-<!-- <a href="https://yoursite.dev">
+<a href="https://yoursite.dev">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" />
-</a> -->
+</a>
 <a href="mailto:ochiengsdavids@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
