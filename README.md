@@ -130,7 +130,7 @@ Currently working through a structured curriculum in the following areas:
 
 </details>
 
----
+--- 
 
 ## GitHub Stats
 <div align="center">
