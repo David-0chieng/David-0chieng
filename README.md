@@ -134,7 +134,7 @@ Currently working through a structured curriculum in the following areas:
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=David-0chieng&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=David-0chieng&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
 <div align="center">
@@ -159,4 +159,7 @@ Currently working through a structured curriculum in the following areas:
 
 <div align="center">
   <i>Open to collaborations, internships, and entry-level opportunities. Feel free to reach out.</i>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=David-0chieng&icon=0&color=0)](https://visitcount.itsvg.in" />
 </div>
