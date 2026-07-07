@@ -148,11 +148,6 @@ Currently working through a structured curriculum in the following areas:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-0chieng&theme=github_dark&count_private=true" />
 </div>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=David-Ochieng&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com/?user=David-Ochieng&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=David-Ochieng&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
 
 
 
